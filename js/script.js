@@ -9,6 +9,7 @@ const app = new Vue(
         data:{
             name:'',
             surname:'',
+            contensSrc:'./img/Welcome.jpeg',
         },
 
     }
